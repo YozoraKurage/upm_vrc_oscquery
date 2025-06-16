@@ -1,0 +1,16 @@
+{
+	"name" : "net.yozolab.upm_vrc_oscquery",
+	"displayName" : "VRC OSCQuery Fork",
+	"version" : "0.0.1",
+	"unity" : "2022.3",
+	"description" : "Library to run and interact with OSCQuery services For VRChat.\n\nOriginal Repository: https://github.com/vrchat-community/vrc-oscquery-lib ",
+	"author" : {
+		"name" : "YozoraKurage",
+		"email" : "YozoraKurage@yozolab.net",
+		"url" : "https://www.yozolab.net"
+	},
+	"dependencies" : {
+		"com.unity.nuget.newtonsoft-json" : "2.0.2"
+	},
+	"samples" : []
+}
